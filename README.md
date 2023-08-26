@@ -1,3 +1,40 @@
+# EduLearn: Plataforma de Aprendizaje en Línea
+
+## Descripción
+EduLearn es una plataforma de aprendizaje en línea diseñada para estudiantes que desean adentrarse en el mundo de la programación y convertirse en desarrolladores Full Stack. La plataforma ofrece una experiencia integral que abarca desde la inscripción hasta el seguimiento del progreso y el acceso a diversos recursos de aprendizaje.
+
+## Características Clave
+
+### Inicio de Sesión y Roles
+- Los estudiantes pueden iniciar sesión en EduLearn utilizando sus credenciales únicas.
+- Los administradores tienen la capacidad de supervisar y gestionar usuarios, incluyendo la eliminación de cuentas y la aplicación de medidas en casos de comportamiento indebido.
+- Los visitantes tienen la opción de registrarse para crear una cuenta de estudiante.
+
+### Acceso a Contenidos de Aprendizaje
+- Los estudiantes tienen acceso a una amplia variedad de contenidos de aprendizaje relacionados con la programación, con enfoque en temas de desarrollo Full Stack.
+- Los contenidos incluyen videos, tutoriales, lecturas y ejercicios prácticos.
+
+### Recursos Extras y Resolución de Dudas
+- Los estudiantes pueden acceder a recursos adicionales como foros de discusión, chat en vivo con instructores y una base de conocimientos para resolver dudas y obtener ayuda con los ejercicios.
+
+### Variedad de Tipos de Ejercicios
+- La plataforma ofrece diferentes tipos de ejercicios, como desafíos de codificación, proyectos prácticos y cuestionarios, para estimular la creatividad y la comprensión profunda de los conceptos.
+
+### Identificador de Progreso
+- Cada estudiante tiene un tablero personal que muestra su progreso en los diferentes módulos y ejercicios.
+- Los estudiantes pueden rastrear su avance y logros a lo largo del tiempo.
+
+### Avisos al Final de Cada Módulo
+- Después de completar un módulo, los estudiantes reciben un aviso que indica en qué áreas pueden seguir practicando y mejorando.
+
+### Ruta de Aprendizaje Personalizada
+- La plataforma proporciona una ruta de aprendizaje recomendada para convertirse en un desarrollador Full Stack, indicando los módulos y el orden óptimo para completarlos.
+
+### Visualización de Módulos
+- Los estudiantes pueden ver los módulos disponibles, los que están en curso y los que han completado para tener una visión clara de su progreso y metas.
+
+
+
 # WebApp boilerplate with React JS and Flask API
 
 Build web applications using React.js for the front end and python/flask for your backend API.
@@ -79,3 +116,5 @@ This boilerplate it's 100% read to deploy with Render.com and Heroku in a matter
 This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
 
 You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
+
+
