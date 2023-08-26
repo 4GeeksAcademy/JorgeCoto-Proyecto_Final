@@ -1,12 +1,12 @@
-# EduLearn: Plataforma de Aprendizaje en Línea
+# CodeMind: Plataforma de Aprendizaje en Línea
 
 ## Descripción
-EduLearn es una plataforma de aprendizaje en línea diseñada para estudiantes que desean adentrarse en el mundo de la programación y convertirse en desarrolladores Full Stack. La plataforma ofrece una experiencia integral que abarca desde la inscripción hasta el seguimiento del progreso y el acceso a diversos recursos de aprendizaje.
+CodeMind es una plataforma de aprendizaje en línea diseñada para estudiantes que desean adentrarse en el mundo de la programación y convertirse en desarrolladores Full Stack. La plataforma ofrece una experiencia integral que abarca desde la inscripción hasta el seguimiento del progreso y el acceso a diversos recursos de aprendizaje.
 
 ## Características Clave
 
 ### Inicio de Sesión y Roles
-- Los estudiantes pueden iniciar sesión en EduLearn utilizando sus credenciales únicas.
+- Los estudiantes pueden iniciar sesión en CodeMind utilizando sus credenciales únicas.
 - Los administradores tienen la capacidad de supervisar y gestionar usuarios, incluyendo la eliminación de cuentas y la aplicación de medidas en casos de comportamiento indebido.
 - Los visitantes tienen la opción de registrarse para crear una cuenta de estudiante.
 
@@ -32,6 +32,8 @@ EduLearn es una plataforma de aprendizaje en línea diseñada para estudiantes q
 
 ### Visualización de Módulos
 - Los estudiantes pueden ver los módulos disponibles, los que están en curso y los que han completado para tener una visión clara de su progreso y metas.
+
+
 
 
 
